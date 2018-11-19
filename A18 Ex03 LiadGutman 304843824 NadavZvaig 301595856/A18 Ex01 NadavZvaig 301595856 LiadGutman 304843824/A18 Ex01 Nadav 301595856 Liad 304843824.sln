@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A18 Ex01 Nadav 301595856 Liad 304843824", "DP_301595856_304843824\A18 Ex01 Nadav 301595856 Liad 304843824.csproj", "{B9D6A5E4-B27E-46C3-88BD-274A53056709}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{45C2010B-1CA3-4CDE-BEF8-CC40F4C663AE}"
+	ProjectSection(SolutionItems) = preProject
+		DP_301595856_304843824\checking report.txt = DP_301595856_304843824\checking report.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9D6A5E4-B27E-46C3-88BD-274A53056709}.Debug|x86.ActiveCfg = Debug|x86
+		{B9D6A5E4-B27E-46C3-88BD-274A53056709}.Debug|x86.Build.0 = Debug|x86
+		{B9D6A5E4-B27E-46C3-88BD-274A53056709}.Release|x86.ActiveCfg = Release|x86
+		{B9D6A5E4-B27E-46C3-88BD-274A53056709}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
